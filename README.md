@@ -185,9 +185,13 @@ idealista-telegram-bot/
 │
 ├── README.md
 ├── workflow/
-│   └── idealista_todo.json       # n8n workflow export
+│   └── Idealista con n8n.json       # n8n workflow export
 └── docs/
-    └── workflow_documentation.pdf  # Full technical report
+    └── Idealista con n8n_en.pdf  # Full technical english report
+    └── Idealista con n8n_es.pdf  # Full technical spanish report
+└── assets/
+    └── n8n_flowchart.png  # image of the n8n flowchart
+    └── n8n_telegram.png  # image of telegram bot
 ```
 
 ---
